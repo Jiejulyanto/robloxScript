@@ -72,7 +72,7 @@ end
 
 -- Styles List
 local styles = {
-    "Sanu", "Oigawa", "Bokuto", "Uchishima",
+    "TimeskipHinoto","Timeskip_Hinata","Timeskip Hinoto","Sanu", "Oigawa", "Bokuto", "Uchishima",
     "Yabu", "Kuzee", "Azamena", "Kosumi", "Kagayomo",
     "Iwaezeni", "Yomomute", "Sagafura",
     "Haibo", "Tsuzichiwa", "Hinoto", "Tonoko", "Yamegushi",
